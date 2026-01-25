@@ -1,0 +1,500 @@
+Uri: http://bitglobs.com/
+File Name: C:\Downloaded Web Sites\bitglobs.com\index.htm
+Content Type: text/html
+
+Uri: http://bitglobs.com/about
+File Name: C:\Downloaded Web Sites\bitglobs.com\about.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/automate
+File Name: C:\Downloaded Web Sites\bitglobs.com\automate.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/contact
+File Name: C:\Downloaded Web Sites\bitglobs.com\contact.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/contacts
+File Name: C:\Downloaded Web Sites\bitglobs.com\contacts.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/copy
+File Name: C:\Downloaded Web Sites\bitglobs.com\copy.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/cryptocurrencies
+File Name: C:\Downloaded Web Sites\bitglobs.com\cryptocurrencies.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/dash/bitcoin-btc-logo.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\dash\bitcoin-btc-logo.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/dash/ethereum-eth-logo.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\dash\ethereum-eth-logo.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/dash/tether-usdt-logo.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\dash\tether-usdt-logo.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/etfs
+File Name: C:\Downloaded Web Sites\bitglobs.com\etfs.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/faq
+File Name: C:\Downloaded Web Sites\bitglobs.com\faq.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/for-traders
+File Name: C:\Downloaded Web Sites\bitglobs.com\for-traders.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/forex
+File Name: C:\Downloaded Web Sites\bitglobs.com\forex.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/forgot-password
+File Name: C:\Downloaded Web Sites\bitglobs.com\forgot-password.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/indices
+File Name: C:\Downloaded Web Sites\bitglobs.com\indices.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/login
+File Name: C:\Downloaded Web Sites\bitglobs.com\login.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/privacy
+File Name: C:\Downloaded Web Sites\bitglobs.com\privacy.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/register
+File Name: C:\Downloaded Web Sites\bitglobs.com\register.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/regulation
+File Name: C:\Downloaded Web Sites\bitglobs.com\regulation.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/shares
+File Name: C:\Downloaded Web Sites\bitglobs.com\shares.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/storage/app/public/photos/mMmfv4zqbgALNgN8zb65JOVaGwF9jjPtkghLeG7X.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\storage\app\public\photos\mMmfv4zqbgALNgN8zb65JOVaGwF9jjPtkghLeG7X.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/storage/app/public/photos/R2KECujwPOCDoLEbr3PgnhG3sHoE5nF3wuoJLpLl.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\storage\app\public\photos\R2KECujwPOCDoLEbr3PgnhG3sHoE5nF3wuoJLpLl.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/1497835.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\1497835.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/abt.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\abt.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/bch.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\bch.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/bnb.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\bnb.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/btc.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\btc.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/commission-scheme-crypt1d.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\commission-scheme-crypt1d.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/commission-scheme-crypt1t.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\commission-scheme-crypt1t.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/commission-scheme-crypt1t1.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\commission-scheme-crypt1t1.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/doge.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\doge.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/eth.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\eth.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/ltc.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\ltc.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/speed.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\speed.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/usdt.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\usdt.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/users.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\users.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/img/website.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\website.png
+Content Type: image/png
+
+Uri: http://bitglobs.com/temp/custom/imge1.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\imge1.jpg
+Content Type: image/jpeg
+
+Uri: http://bitglobs.com/temp/custom/imge2.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\imge2.jpg
+Content Type: image/jpeg
+
+Uri: http://bitglobs.com/temp/custom/imge3.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\imge3.jpg
+Content Type: image/jpeg
+
+Uri: http://bitglobs.com/temp/custom/imge4.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\imge4.jpg
+Content Type: image/jpeg
+
+Uri: http://bitglobs.com/temp/custom/imge5.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\imge5.jpg
+Content Type: image/jpeg
+
+Uri: http://bitglobs.com/temp/custom/jenny.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\jenny.jpg
+Content Type: image/jpeg
+
+Uri: http://bitglobs.com/temp/custom/kathy.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\kathy.jpg
+Content Type: image/jpeg
+
+Uri: http://bitglobs.com/temp/custom/mike.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\mike.jpg
+Content Type: image/jpeg
+
+Uri: http://bitglobs.com/terms
+File Name: C:\Downloaded Web Sites\bitglobs.com\terms.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/trade
+File Name: C:\Downloaded Web Sites\bitglobs.com\trade.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/trading-conditions
+File Name: C:\Downloaded Web Sites\bitglobs.com\trading-conditions.html
+Content Type: text/html
+
+Uri: http://bitglobs.com/why-us
+File Name: C:\Downloaded Web Sites\bitglobs.com\why-us.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/
+File Name: C:\Downloaded Web Sites\bitglobs.com\index-1.htm
+Content Type: text/html
+
+Uri: https://bitglobs.com/about
+File Name: C:\Downloaded Web Sites\bitglobs.com\about-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/automate
+File Name: C:\Downloaded Web Sites\bitglobs.com\automate-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/contact
+File Name: C:\Downloaded Web Sites\bitglobs.com\contact-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/contacts
+File Name: C:\Downloaded Web Sites\bitglobs.com\contacts-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/copy
+File Name: C:\Downloaded Web Sites\bitglobs.com\copy-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/cryptocurrencies
+File Name: C:\Downloaded Web Sites\bitglobs.com\cryptocurrencies-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/dash/bitcoin-btc-logo.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\dash\bitcoin-btc-logo-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/dash/ethereum-eth-logo.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\dash\ethereum-eth-logo-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/dash/tether-usdt-logo.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\dash\tether-usdt-logo-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/etfs
+File Name: C:\Downloaded Web Sites\bitglobs.com\etfs-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/faq
+File Name: C:\Downloaded Web Sites\bitglobs.com\faq-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/for-traders
+File Name: C:\Downloaded Web Sites\bitglobs.com\for-traders-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/forex
+File Name: C:\Downloaded Web Sites\bitglobs.com\forex-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/forgot-password
+File Name: C:\Downloaded Web Sites\bitglobs.com\forgot-password-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/indices
+File Name: C:\Downloaded Web Sites\bitglobs.com\indices-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/login
+File Name: C:\Downloaded Web Sites\bitglobs.com\login-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/privacy
+File Name: C:\Downloaded Web Sites\bitglobs.com\privacy-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/register
+File Name: C:\Downloaded Web Sites\bitglobs.com\register-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/regulation
+File Name: C:\Downloaded Web Sites\bitglobs.com\regulation-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/shares
+File Name: C:\Downloaded Web Sites\bitglobs.com\shares-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/storage/app/public/photos/mMmfv4zqbgALNgN8zb65JOVaGwF9jjPtkghLeG7X.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\storage\app\public\photos\mMmfv4zqbgALNgN8zb65JOVaGwF9jjPtkghLeG7X-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/storage/app/public/photos/R2KECujwPOCDoLEbr3PgnhG3sHoE5nF3wuoJLpLl.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\storage\app\public\photos\R2KECujwPOCDoLEbr3PgnhG3sHoE5nF3wuoJLpLl-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/1497835.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\1497835-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/abt.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\abt-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/bch.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\bch-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/bnb.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\bnb-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/btc.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\btc-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/commission-scheme-crypt1d.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\commission-scheme-crypt1d-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/commission-scheme-crypt1t.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\commission-scheme-crypt1t-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/commission-scheme-crypt1t1.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\commission-scheme-crypt1t1-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/doge.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\doge-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/eth.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\eth-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/ltc.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\ltc-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/speed.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\speed-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/usdt.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\usdt-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/users.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\users-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/img/website.png
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\img\website-1.png
+Content Type: image/png
+
+Uri: https://bitglobs.com/temp/custom/imge1.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\imge1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bitglobs.com/temp/custom/imge2.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\imge2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bitglobs.com/temp/custom/imge3.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\imge3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bitglobs.com/temp/custom/imge4.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\imge4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bitglobs.com/temp/custom/imge5.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\imge5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bitglobs.com/temp/custom/jenny.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\jenny-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bitglobs.com/temp/custom/kathy.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\kathy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bitglobs.com/temp/custom/mike.jpg
+File Name: C:\Downloaded Web Sites\bitglobs.com\temp\custom\mike-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bitglobs.com/terms
+File Name: C:\Downloaded Web Sites\bitglobs.com\terms-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/trade
+File Name: C:\Downloaded Web Sites\bitglobs.com\trade-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/trading-conditions
+File Name: C:\Downloaded Web Sites\bitglobs.com\trading-conditions-1.html
+Content Type: text/html
+
+Uri: https://bitglobs.com/why-us
+File Name: C:\Downloaded Web Sites\bitglobs.com\why-us-1.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js
+File Name: C:\Downloaded Web Sites\bitglobs.com\npm\alpinejs@3.x.x\dist\cdn.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.tailwindcss.com/3.4.17
+File Name: C:\Downloaded Web Sites\bitglobs.com\3.4.17
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\bitglobs.com\ajax\libs\font-awesome\6.4.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\bitglobs.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\bitglobs.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\bitglobs.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\bitglobs.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\bitglobs.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\bitglobs.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\bitglobs.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\bitglobs.com\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\bitglobs.com\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\bitglobs.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\bitglobs.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\bitglobs.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\bitglobs.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\bitglobs.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\bitglobs.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-forex-cross-rates.js
+File Name: C:\Downloaded Web Sites\bitglobs.com\external-embedding\embed-widget-forex-cross-rates.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-forex-heat-map.js
+File Name: C:\Downloaded Web Sites\bitglobs.com\external-embedding\embed-widget-forex-heat-map.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js
+File Name: C:\Downloaded Web Sites\bitglobs.com\external-embedding\embed-widget-market-overview.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js
+File Name: C:\Downloaded Web Sites\bitglobs.com\external-embedding\embed-widget-ticker-tape.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/tv.js
+File Name: C:\Downloaded Web Sites\bitglobs.com\tv.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/alpinejs@3.15.3/dist/cdn.min.js
+File Name: C:\Downloaded Web Sites\bitglobs.com\alpinejs@3.15.3\dist\cdn.min.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/lucide@0.562.0/dist/umd/lucide.js
+File Name: C:\Downloaded Web Sites\bitglobs.com\lucide@0.562.0\dist\umd\lucide.js
+Content Type: text/javascript
+
